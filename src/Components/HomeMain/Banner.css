@@ -1,0 +1,30 @@
+.item1-bg {
+  background-image: linear-gradient(
+      rgba(0, 0.8, 0.5, 0.5),
+      rgba(0, 0.7, 0.5, 0.5)
+    ),
+    url("../../assets/i1bg.jpg");
+  background-position: contain;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.item2-bg {
+  background-image: linear-gradient(
+      rgba(0, 0.8, 0.5, 0.5),
+      rgba(0, 0.7, 0.5, 0.5)
+    ),
+    url("../../assets/item2bgggg.jpg");
+  background-position: contain;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.item3-bg {
+  background-image: linear-gradient(
+      rgba(0, 0.8, 0.5, 0.5),
+      rgba(0, 0.7, 0.5, 0.5)
+    ),
+    url("../../assets/item3bg.jpg");
+  background-position: contain;
+  background-size: cover;
+  background-repeat: no-repeat;
+}

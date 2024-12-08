@@ -1,0 +1,33 @@
+[
+    {
+      "id": 1,
+      "image": "https://i.postimg.cc/Prf0xMNQ/image.png",
+      "headline": "Marvel Announces New Avengers Movie Set for 2025",
+      "newsLink":"https://screenrant.com/marvel-2025-movies-list-release-dates/"
+    },
+    {
+      "id": 2,
+      "image": "https://i.postimg.cc/XYphK7fZ/image.png",
+      "headline": "Top 10 Must-Watch Sci-Fi Movies of All Time",
+      "newsLink":"https://www.empireonline.com/movies/features/best-sci-fi-movies/"
+    },
+    {
+      "id": 3,
+      "image": "https://i.postimg.cc/KvKrJKWy/image.png",
+      "headline": "Oscars 2024: Predictions and Surprises in the Nominees",
+      "newsLink":"https://variety.com/lists/2024-oscar-predictions/"
+    },
+    {
+      "id": 4,
+      "image": "https://i.postimg.cc/gkfy5z9L/image.png",
+      "headline": "How AI is Revolutionizing Movie Special Effects",
+      "newsLink":"https://www.scified.com/news/ai-driven-special-effects-modern-sci-fi-films"
+    },
+    {
+      "id": 5,
+      "image": "https://i.postimg.cc/nVN08YBL/image.png",
+      "headline": "Upcoming Movies to Watch Out for This Holiday Season",
+      "newsLink":"https://www.rottentomatoes.com/browse/movies_coming_soon/genres:holiday"
+    }
+  ]
+  
